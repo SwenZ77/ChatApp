@@ -4,13 +4,13 @@ chat-app-backend/*.class
 chat-app-backend/*.jar
 chat-app-backend/*.war
 chat-app-backend/*.ear
-chat-app-backend/src/main/resources/application.properties
+chat-app-backend/application.properties
 
 # ===== Node / React Frontend =====
 chat-app-frontend/node_modules/
 chat-app-frontend/build/
 chat-app-frontend/dist/
-chat-app-frontend/src/assets/
+chat-app-frontend/assets/
 chat-app-frontend/public/
 chat-app-frontend/README.md
 
